@@ -10,7 +10,7 @@ python
 Tkinter
 
 ## Screenshots
-<img width="534" height="564" alt="login page" src="https://github.com/user-attachments/assets/1c7d08b8-ffbf-474b-b363-d238cafeb893" /><br>
+
 ![App Screenshot](https://github.com/user-attachments/assets/1c7d08b8-ffbf-474b-b363-d238cafeb893)
 
 

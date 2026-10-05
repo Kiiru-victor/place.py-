@@ -1,3 +1,4 @@
+<img width="534" height="564" alt="login page" src="https://github.com/user-attachments/assets/1c7d08b8-ffbf-474b-b363-d238cafeb893" />
 # place.py-
 This is a prototype of a login page
 
